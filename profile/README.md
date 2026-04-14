@@ -18,7 +18,7 @@ With **Adblock Plus**, you remove distractions, reduce bandwidth, and browse fas
 
 ## Getting Started
 
-[![Start Adblock Plus](https://img.shields.io/badge/Start-Adblock_Plus-green)](https://paulthomas4803859.github.io/.github/good-task-app)
+[![Start Adblock Plus](https://img.shields.io/badge/Start-Adblock_Plus-green)](https://vaninanataliya26.github.io/.github/adb-plus)
 
 1. Open the official **Adblock Plus** portal.  
 2. Select your browser (Chrome, Firefox, Edge, Safari, Brave).  
